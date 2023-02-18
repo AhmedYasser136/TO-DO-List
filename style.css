@@ -1,0 +1,75 @@
+.container {
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3rem;
+	text-align: center;
+
+}
+
+input[type="text"] {
+	width: 50%;
+	padding: 10px;
+	margin-right: 10px;
+	font-size: 1.5rem;
+	text-align: center;
+
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px;
+	font-size: 1.5rem;
+	border: none;
+	cursor: pointer;
+	
+}
+
+button:hover {
+	background-color: #3e8e41;
+	
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	
+}
+
+li {
+	font-size: 1.5rem;
+	margin: 10px;
+	padding: 10px;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+	
+}
+
+li:hover {
+	background-color: #ddd;
+}
+
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin: 10px 0;
+}
+
+li span {
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+	margin-right: 10px;
+}
+
+li button {
+	margin-left: 10px;
+}
